@@ -1,0 +1,7 @@
+{
+  "name": "Iqra-Hub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,80 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+ion-content{
+  /* --ion-background-color:#0163ae; */
+  /* --ion-background: url('https://wallpaperaccess.com/full/92869.jpg') */
+}
+
+ion-card{
+  width:100%;
+}
+
+.font {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: white;
+}
+
+.tester{
+  /* border-style: solid; */
+}
+
+.daily-notfi {
+  font-size: 25px;
+}
+
+.notfi-border {
+  --ion-margin: none;
+}
+
+.notfi-card {
+  background: #eef2f7;
+}
+
+.start-end {
+  font-size: 20px;
+}
+
+.fajr-row {
+  font-size: 29px;
+}
+
+.sunrise-row {
+  font-size: 29px;
+  --ion-margin:none;
+}
+
+.sunrise-start {
+  font-size: 29px;
+}
+
+.zuhr-row {
+  font-size: 29px;
+}
+/* Original font was 39px */
+
+.asr-row {
+  font-size: 29px;
+  --ion-margin:none;
+}
+
+.maghrib-row {
+  font-size: 29px;
+  --ion-margin:none;
+}
+
+.isha-row {
+  font-size: 29px;
+  --ion-margin:none;
+}
+
+.jamaat {
+  color: #0083c9;
+}
+
+.salah-name {
+  /* background-color: aqua; */
+  /* --ion-margin: 1px; */
+}
